@@ -1,0 +1,6 @@
+numpy==2.2.1
+Pillow==11.0.0
+pyspark==3.5.4
+sparkdl==0.2.2
+torch==2.5.1
+torchvision==0.20.1
